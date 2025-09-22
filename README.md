@@ -31,4 +31,4 @@ A cross-platform Flutter app providing essential Islamic resources — available
 ## 👨‍💻 Author
 **Shadman Ahmmed**  
 📧 shadmanahmmed@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](https://github.com/CoderBoxer)
+🔗 [GitHub](https://github.com/CoderBoxer)
